@@ -69,6 +69,6 @@ pip install -r requirements.txt
 # download creditcard.csv from Kaggle into data/
 jupyter notebook 01_eda.ipynb
 ```
-
+![PR curve](outputs/pr_curve.png)
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, scikit-learn, imbalanced-learn, XGBoost
