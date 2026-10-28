@@ -70,5 +70,6 @@ pip install -r requirements.txt
 jupyter notebook 01_eda.ipynb
 ```
 ![PR curve](outputs/pr_curve.png)
+![XGBoost precision-recall curve](outputs/pr_curve.png)
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, scikit-learn, imbalanced-learn, XGBoost
